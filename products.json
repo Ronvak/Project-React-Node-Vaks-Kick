@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.pinimg.com/564x/0e/1d/44/0e1d443c6ed845e0e1edfb534ce546b4.jpg",
+    "brand": "Adidas Originals",
+    "model": "Prophere W - DA9619",
+    "price": 250,
+    "about": "Star Pharrell Williams defies the laws of style and celebrates diversity with this signature sneaker created in collaboration with adidas Originals. Made of breathable mesh, it has an integrated bootie. It features a grid-patterned EVA midsole and colored rubber detailing on the outsole. It's accented with Pharrell's equals Hu symbol on the heel and tongue.",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "img": "https://i.pinimg.com/564x/48/4b/2d/484b2d9baf4fc1063fca9b556bcf9309.jpg",
+    "brand": "Nike Air Jordan 1",
+    "model": "AJ1 Cactus Jack",
+    "price": 300,
+    "about": "The Air Jordan 1 Travis Scott 'Cactus Jack' is the result of one of the most anticipated collaborations of this year. A proven partnership, Travis Scott and Nike join forces to create a brand new edition of the world's most popular silhouette.",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "img": "https://i.pinimg.com/564x/58/7e/ca/587ecaa1125c2f188957436f31339064.jpg",
+    "brand": "Nike Air Jordan 1",
+    "model": "Luis Vuitton custom",
+    "price": 650,
+    "about": "The capsule’s Air Jordan 1 High is a much closer replication of the original colorway. Built of authentic LV bags, the silhouette features the iconic monogram-patterned leather across its entire profile, flaunting both the usual logo hits and elegant brown finish. This is then paired with the lighter Damier canvas, which outfits the toe, collar, and Swoosh.",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "img": "https://i.pinimg.com/564x/3d/9f/ef/3d9fef60f608b6a7f8703eb84a3107f7.jpg",
+    "brand": "Adidas Sports",
+    "model": "Duramo SL",
+    "price": 120,
+    "about": "Variety is what motivates you. These comfortable and versatile running shoes are perfect for running, lifting weights or playing a mincemeat. They feature a lightweight structure with soft cushioning. Seamless gussets support the foot during lateral movements and quick changes of direction.",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "img": "https://i.pinimg.com/564x/54/40/f3/5440f36c3fa45191c793b4c0d92f9225.jpg",
+    "brand": "Nike Air Force 1",
+    "model": "Pastel Paradise Shadow Af1",
+    "price": 199,
+    "about": "The Nike Air Force 1 Shadow puts a playful twist on a classic b-ball design.Using a layered approach, doubling the branding and exaggerating the midsole, it highlights AF-1 DNA with a bold, new look.",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "img": "https://i.pinimg.com/564x/a1/ee/55/a1ee556a8aa36e30779b12a1a1cf5fae.jpg",
+    "brand": "Nike Air Jordan 1",
+    "model": "Digital-Pink AJ1",
+    "price": 240,
+    "about": "The Jordan 1 Mid Digital Pink (W) features the Nike winged and Jumpman logos printed on the fabric. But instead of making the logos contrast the upper, Nike opted for light, subtle colors that blend in—and nearly disappear—into the rest of the shoe. The rest of the shoe offers light pinks and soft mauves that resemble makeup powder, with a white Nike logo and just a hint of white on the edges. Durable leather, soft suede and pink mesh provide a mix of textures that highlight the different shades of pink.",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "img": "https://i.pinimg.com/564x/4e/a5/7a/4ea57af8433eb8fae8f1653b0c3858ce.jpg",
+    "brand": "Adidas Sports",
+    "model": "SolarGlide 3",
+    "price": 119,
+    "about": "Comfort and performance from heel to toe and top to bottom. The new SolarGlide 3 is a neutral workhorse running shoe built for the bulk of your training. Features include stitched-in reinforcement on the breathable mesh upper, providing targeted support. A supportive heel structure and a stability rail to guide your stride.",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "img": "https://i.pinimg.com/564x/ad/dd/71/addd71fc0e0aa6732780a7a7f7d4ba2e.jpg",
+    "brand": "Reebok",
+    "model": "Graphlite Pro Retro 2016",
+    "price": 150,
+    "about": " The early 90s were a wild few years for sneakers, Reebok’s Graphlite Pro retro returns to give us another taste of that 90s flavour with some OG spice.",
+    "gender": "Male"
+  },
+  {
+    "id": 9,
+    "img": "https://assets.reebok.com/images/w_600,f_auto,q_auto/4306f6f5d10749a482e5aa8f00c8d375_9366/Reebok_Royal_Glide_White_V53956.jpg",
+    "brand": "Reebok Women",
+    "model": "Royal Glide Sneakers",
+    "price": 90,
+    "about": "Slip into a sweeter stride with these low-key kicks from our Royal Collection. Combining the shock absorbing qualities of a die-cut EVA midsole with the solid traction of a herringbone outsole they're strong, smooth and ready to move.",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "img": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b7d9211c-26e7-431a-ac24-b0540fb3c00f/air-force-1-07-shoe-rWtqPn.png",
+    "brand": "Nike Air Force 1",
+    "model": "Classic '07 ",
+    "price": 100,
+    "about": "The radiance lives on in the Nike Air Force 1 '07, the b-ball OG that puts a fresh spin on what you know best: durably stitched overlays, clean finishes and the perfect amount of flash to make you shine.",
+    "gender": "Male"
+  },
+  {
+    "id": 11,
+    "img": "https://assets.reebok.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/12b71682a1184532a463add7018393ac_9366/Question_Mid_Basketball_Shoes_White_GX0230_01_standard.jpg",
+    "brand": "Reebok Basketball",
+    "model": "Question Mid",
+    "price": 160,
+    "about": "Lace up a pair of Reebok sneakers that look like you unearthed them from the archives. Painstakingly reproduced from the original, these Question Mid Shoes mark the moment Allen Iverson made hardwood history. Luxe touches like a pearlised leather toe and supple upper give you all you crave",
+    "gender": "Male"
+  },
+  {
+    "id": 12,
+    "img": "https://assets.reebok.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ce20634b60bd4e2ab119ae8c017cd9dc_9366/Maison_Margiela_Instapump_Fury_Memory_Of_Shoes_Black_GZ4204_01_standard.jpg",
+    "brand": "Reebok ",
+    "model": "Maison Margiela Instapump Fury Memory Of Shoes",
+    "price": 400,
+    "about": "Created with Paris-based fashion house Maison Margiela, these Reebok Instapump Fury shoes evoke the impression of familiar elements through deconstruction. They are a visual recollection of an object: the memory of something that was. Exposed foam details and an iconic pump illuminate this idea.",
+    "gender": "Male"
+  },
+  {
+    "id": 13,
+    "img": "https://assets.reebok.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9f3a4593834c45e0a7f5ad32012b0ee6_9366/THE_FLINTSTONES_Instapump_Fury_94_Shoes_Green_GY8819_01_standard.jpg",
+    "brand": "Reebok",
+    "model": "Instapump Fury 94",
+    "price": 185,
+    "about": "Do THE JETSONS and THE FLINTSTONES actually live in the same time period? Test the theory in these progressive shoes from Reebok. The design combines animal prints and fur accents from the prehistoric era and combines them with metallic and iridescent details inspired by the Space Age. The iconic Pump adjusts the fit for old-school cool.",
+    "gender": "Male"
+  },
+  {
+    "id": 14,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8d1d26e792fa4654b597ae32012603bd_9366/NMD_R1_Shoes_Black_GX6978_01_standard.jpg",
+    "brand": "Adidas",
+    "model": "NMD_R1",
+    "price": 149,
+    "about": "Running-inspired style made for everyday exploration. This remastered version of the adidas NMD_R1 is the cutting-edge evolution of the original '80s-inspired shoes with painted plug edges and colorful lace tips to add fresh updates. A stretchy knit upper crafted hugs your foot for comfort on the go. Long commutes and slick city sidewalks are no problem, thanks to the BOOST cushioning and grippy rubber outsole beneath your feet.",
+    "gender": "Male"
+  },
+  {
+    "id": 15,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto,t_ivy/71574d5967934d1aad06aec50020ae33_faec/Stan_Smith_Shoes_Beige_HR0180_HM16.jpg",
+    "brand": "Adidas Women",
+    "model": "STAN SMITH",
+    "price": 110,
+    "about": "The adidas x IVY PARK Stan Smith shoes spice up the iconic silhouette through materials and texture. Each pair's outsole is hand-dipped in a wash of vibrant solar yellow, adding a bold pop of color and making a strong visual statement. The canvas upper has a premium suede heel patch finished with a tonal, embossed logo.",
+    "gender": "Female"
+  },
+  {
+    "id": 16,
+    "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/388549/05/sv01/fnd/PNA/fmt/png",
+    "brand": "Puma",
+    "model": "Slipstream Men's",
+    "price": 85,
+    "about": "The Slipstream has been a fixed PUMA staple since it was first seen on basketball courts in the 1980s. Initially released as a hightop performance shoe, the Slipstream quickly turned into a streetwear classic and continued as such throughout the 2000s. Now, while staying true to its basketball heritage through details such as the stitching, the Slipstream graphic, and the sole, the sneaker has been revived and updated to modern preferences. A cleaner, more minimal version of the ‘80s original, the new Slipstream is the perfect blank canvas, with just a touch of nostalgia, to be restyled for today.",
+    "gender": "Male"
+  },
+  {
+    "id": 17,
+    "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/385820/01/sv03/fnd/PNA/fmt/png",
+    "brand": "Puma",
+    "model": "PUMA x DC JUSTICE LEAGUE Superman RS-Z",
+    "price": 120,
+    "about": "The Slipstream has been a fixed PUMA staple since it was first seen on basketball courts in the 1980s. Initially released as a hightop performance shoe, the Slipstream quickly turned into a streetwear classic and continued as such throughout the 2000s. Now, while staying true to its basketball heritage through details such as the stitching, the Slipstream graphic, and the sole, the sneaker has been revived and updated to modern preferences. A cleaner, more minimal version of the ‘80s original, the new Slipstream is the perfect blank canvas, with just a touch of nostalgia, to be restyled for today.",
+    "gender": "Male"
+  },
+  {
+    "id": 18,
+    "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/385406/01/sv01/fnd/PNA/fmt/png",
+    "brand": "Puma Women",
+    "model": "RS-X Black Rose Women's Sneakers",
+    "price": 110,
+    "about": "RS-X stands for RE-IMAGINATION as the archive technology is reimagined in a future-focused, tech style. The RS-X Black Rose is new colorway featuring eye-catchig rose gold accents that shine with every step.",
+    "gender": "Female"
+  },
+  {
+    "id": 19,
+    "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/383293/01/sv01/fnd/PNA/fmt/png",
+    "brand": "Puma Women",
+    "model": "PUMA x BATMAN Mayze Catwoman Women's Sneakers",
+    "price": 130,
+    "about": "Step into the night. The new PUMA x BATMAN collection is created in honor of the release of the new film, The Batman. The collection captures the essence of the film through moody colors, dramatic design elements, and graphics and patterns inspired by the Caped Crusader. Gotham City, we’re coming for you.",
+    "gender": "Female"
+  },
+  {
+    "id": 20,
+    "img": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/307112/01/sv01/fnd/PNA/fmt/png",
+    "brand": "Puma ",
+    "model": "Scuderia Ferrari IONF Pool Motorsport Shoes",
+    "price": 650,
+    "about": "A collector's item so unique it could be displayed in a museum...but where would be the fun in that? This is a shoe that takes its cues from the world of high-end motorsport and haute couture and synthesises the two into the pinnacle of streetwear. Featuring a sock-like fit for more comfort and an eye-catching buckle that traverses the upper, this shoe's graphic design is guaranteed to turn heads wherever you wear it. An external web heel counter provides support and feels supple and durable all day long.",
+    "gender": "Male"
+  }
+]
